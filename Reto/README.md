@@ -3,5 +3,5 @@
 #Avance 1
 
 #UML-Diagrama de clases
-![](Herencia.jpeg)
+![](Herencia.jpg)
 
