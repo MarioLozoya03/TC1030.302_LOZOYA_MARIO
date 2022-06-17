@@ -92,7 +92,7 @@ int Peliculas::getCantidadPeliculas(){
       cout << "P" << arrPtrPeliculas[iR]->str() << endl;
       acum = acum + arrPtrPeliculas[iR]->getCalificacion();
     }
-    promedio = acum / 35;
+    promedio = acum / cantidad;
     cout << "Promedio: " << promedio << endl;
 }
     void Peliculas::reporteConCalificacion(float _calificacionPromedio){
