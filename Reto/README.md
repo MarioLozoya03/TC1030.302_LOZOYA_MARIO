@@ -3,8 +3,7 @@
 #Avance 1
 
 #UML-Diagrama de clases
-![](Reto.jpg)
-
+![](Mario.jpg)
 
 #Casos Prueba
 #2
